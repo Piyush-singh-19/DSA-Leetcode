@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
+| [3870-count-commas-in-range](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
