@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2469-convert-the-temperature) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3870-count-commas-in-range](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
 ## Number Theory
