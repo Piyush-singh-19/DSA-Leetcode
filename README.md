@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3945-digit-frequency-score](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
