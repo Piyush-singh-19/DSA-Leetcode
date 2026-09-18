@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2469-convert-the-temperature) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Linked List
