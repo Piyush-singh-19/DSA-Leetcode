@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
