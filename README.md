@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2678-number-of-senior-citizens](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2942-find-words-containing-character](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2942-find-words-containing-character](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3701-compute-alternating-sum) |
