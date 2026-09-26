@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1051-height-checker](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
