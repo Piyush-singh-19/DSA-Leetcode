@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0066-plus-one) |
 | [1051-height-checker](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
