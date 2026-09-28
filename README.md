@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2678-number-of-senior-citizens](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
