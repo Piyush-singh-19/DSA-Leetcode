@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3895-count-digit-appearances) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
