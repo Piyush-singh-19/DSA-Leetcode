@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -122,14 +124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
