@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1518-water-bottles) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1528-shuffle-string) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
