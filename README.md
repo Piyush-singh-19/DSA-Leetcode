@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1518-water-bottles) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1528-shuffle-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
