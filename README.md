@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2678-number-of-senior-citizens](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
