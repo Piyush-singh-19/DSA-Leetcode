@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Indexed Tree
 |  |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
