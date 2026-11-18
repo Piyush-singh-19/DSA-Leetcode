@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0066-plus-one) |
 | [1051-height-checker](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1051-height-checker) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1528-shuffle-string) |
