@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1051-height-checker](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
