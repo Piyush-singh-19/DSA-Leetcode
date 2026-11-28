@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2103-rings-and-rods](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2103-rings-and-rods) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Piyush-singh-19/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Bubble Sort
 |  |
